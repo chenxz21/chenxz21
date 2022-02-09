@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?chenxz21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://readme-stats-wheat.vercel.app//api?chenxz21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
